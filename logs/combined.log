@@ -1,0 +1,144 @@
+{"level":"info","message":"Successfully fetched the data of all employees!","service":"user-service","timestamp":"2022-07-12T11:43:57.349Z"}
+{"level":"error","message":"Error finding all employees!","service":"user-service","timestamp":"2022-07-12T11:45:32.021Z"}
+{"level":"error","message":"Error while featching an employee record!","service":"user-service","timestamp":"2022-07-12T11:59:30.025Z"}
+{"level":"info","message":"Successfully fetched the data of all employees!","service":"user-service","timestamp":"2022-07-12T12:00:00.652Z"}
+{"level":"info","message":"An employee record is fetched with employee","service":"user-service","timestamp":"2022-07-12T12:01:22.558Z"}
+{"level":"info","message":"An employee record is fetched with employee","service":"user-service","timestamp":"2022-07-12T12:03:23.036Z"}
+{"level":"info","message":"An employee record is fetched up successfully","service":"user-service","timestamp":"2022-07-12T12:07:38.859Z"}
+{"level":"info","message":"An employee record is fetched up successfully","service":"user-service","timestamp":"2022-07-12T12:07:56.514Z"}
+{"level":"info","message":"An employee record is fetched up successfully","service":"user-service","timestamp":"2022-07-12T12:08:27.536Z"}
+{"level":"info","message":"An employee record is fetched up successfully","service":"user-service","timestamp":"2022-07-12T12:09:04.174Z"}
+{"level":"info","message":"An employee record is fetched up successfully","service":"user-service","timestamp":"2022-07-12T12:09:53.721Z"}
+{"level":"error","message":"Error while featching an employee record!","service":"user-service","timestamp":"2022-07-12T12:26:09.227Z"}
+{"level":"error","message":"Error while featching an employee record!","service":"user-service","timestamp":"2022-07-12T12:27:48.769Z"}
+{"level":"error","message":"Error while featching an employee record!","service":"user-service","timestamp":"2022-07-12T12:28:49.706Z"}
+{"level":"error","message":"Error while featching an employee record!","service":"user-service","timestamp":"2022-07-12T12:30:51.718Z"}
+{"level":"error","message":"Error while featching an employee record!","service":"user-service","timestamp":"2022-07-12T12:31:59.475Z"}
+{"level":"error","message":"Error finding all employees!","service":"user-service","timestamp":"2022-07-12T12:33:03.497Z"}
+{"level":"error","message":"Error finding all employees!","service":"user-service","timestamp":"2022-07-12T12:33:45.548Z"}
+{"level":"error","message":"Error while featching an employee record!","service":"user-service","timestamp":"2022-07-12T12:34:51.320Z"}
+{"level":"error","message":"Error while featching an employee record!","service":"user-service","timestamp":"2022-07-12T12:35:32.220Z"}
+{"level":"error","message":"Error while featching an employee record!","service":"user-service","timestamp":"2022-07-12T12:36:11.243Z"}
+{"level":"error","message":"An error has occured while updating a document.","service":"user-service","timestamp":"2022-07-12T12:54:38.078Z"}
+{"level":"info","message":"An employee record has been updated successfully.","service":"user-service","timestamp":"2022-07-12T12:55:01.586Z"}
+{"level":"info","message":"New employee is added successfully!","service":"user-service","timestamp":"2022-07-12T12:56:53.743Z"}
+{"level":"error","message":"Error while adding a new employee.","service":"user-service","timestamp":"2022-07-12T12:58:10.223Z"}
+{"level":"info","message":"New employee is added successfully!","service":"user-service","timestamp":"2022-07-12T12:58:18.989Z"}
+{"level":"info","message":"New employee is added successfully!","service":"user-service","timestamp":"2022-07-12T13:00:50.479Z"}
+{"level":"error","message":"Error while deleting","service":"user-service","timestamp":"2022-07-12T13:03:15.970Z"}
+{"level":"info","message":"Successfully deleted a record","service":"user-service","timestamp":"2022-07-12T13:04:31.936Z"}
+{"level":"error","message":"Error while featching an employee record!","service":"user-service","timestamp":"2022-07-12T13:05:48.042Z"}
+{"level":"info","message":"An employee record is fetched up successfully","service":"user-service","timestamp":"2022-07-12T13:06:07.781Z"}
+{"level":"error","message":"Error while deleting","service":"user-service","timestamp":"2022-07-12T13:08:09.576Z"}
+{"level":"info","message":"Successfully deleted a record","service":"user-service","timestamp":"2022-07-12T13:08:43.707Z"}
+{"level":"error","message":"Error while deleting","service":"user-service","timestamp":"2022-07-12T13:09:15.423Z"}
+{"level":"error","message":"Error while deleting","service":"user-service","timestamp":"2022-07-12T13:09:24.040Z"}
+{"level":"error","message":"Error while featching an employee record!","service":"user-service","timestamp":"2022-07-12T13:10:58.696Z"}
+{"level":"info","message":"New employee is added successfully!","service":"user-service","timestamp":"2022-07-12T13:11:19.957Z"}
+{"level":"error","message":"Error while deleting","service":"user-service","timestamp":"2022-07-12T13:11:39.421Z"}
+{"level":"error","message":"Error while deleting","service":"user-service","timestamp":"2022-07-12T13:11:44.471Z"}
+{"level":"error","message":"Error while featching an employee record!","service":"user-service","timestamp":"2022-07-12T13:11:50.037Z"}
+{"level":"info","message":"New employee is added successfully!","service":"user-service","timestamp":"2022-07-12T13:12:31.765Z"}
+{"level":"info","message":"An employee record is fetched up successfully","service":"user-service","timestamp":"2022-07-12T13:12:52.379Z"}
+{"level":"error","message":"Error finding all employees!","service":"user-service","timestamp":"2022-07-12T13:15:12.257Z"}
+{"level":"info","message":"Successfully fetched the data of all employees!","service":"user-service","timestamp":"2022-07-12T13:17:07.089Z"}
+{"level":"info","message":"An employee record is fetched up successfully","service":"user-service","timestamp":"2022-07-12T13:17:27.285Z"}
+{"level":"error","message":"Error while featching an employee record!","service":"user-service","timestamp":"2022-07-12T13:18:29.514Z"}
+{"level":"info","message":"An employee record is fetched up successfully","service":"user-service","timestamp":"2022-07-12T13:18:36.768Z"}
+{"level":"info","message":"An employee record is fetched up successfully","service":"user-service","timestamp":"2022-07-12T13:19:17.327Z"}
+{"level":"error","message":"Error while featching an employee record!","service":"user-service","timestamp":"2022-07-12T13:19:34.412Z"}
+{"level":"error","message":"Error while featching an employee record!","service":"user-service","timestamp":"2022-07-12T13:19:37.564Z"}
+{"level":"error","message":"Error while featching an employee record!","service":"user-service","timestamp":"2022-07-12T13:19:43.803Z"}
+{"level":"info","message":"An employee record is fetched up successfully","service":"user-service","timestamp":"2022-07-12T13:19:48.752Z"}
+{"level":"info","message":"New employee is added successfully!","service":"user-service","timestamp":"2022-07-12T13:21:10.446Z"}
+{"level":"error","message":"Error while adding a new employee.","service":"user-service","timestamp":"2022-07-12T13:21:14.556Z"}
+{"level":"info","message":"New employee is added successfully!","service":"user-service","timestamp":"2022-07-12T13:21:21.980Z"}
+{"level":"info","message":"Successfully fetched the data of all employees!","service":"user-service","timestamp":"2022-07-12T13:21:39.505Z"}
+{"level":"info","message":"An employee record is fetched up successfully","service":"user-service","timestamp":"2022-07-12T13:21:45.608Z"}
+{"level":"error","message":"Error while featching an employee record!","service":"user-service","timestamp":"2022-07-12T13:22:35.876Z"}
+{"level":"info","message":"Successfully fetched the data of all employees!","service":"user-service","timestamp":"2022-07-12T13:22:40.710Z"}
+{"level":"info","message":"Successfully deleted a record","service":"user-service","timestamp":"2022-07-12T13:23:25.873Z"}
+{"level":"info","message":"Successfully fetched the data of all employees!","service":"user-service","timestamp":"2022-07-12T13:23:50.912Z"}
+{"level":"info","message":"Successfully fetched the data of all employees!","service":"user-service","timestamp":"2022-07-12T13:24:34.564Z"}
+{"level":"info","message":"Successfully deleted a record","service":"user-service","timestamp":"2022-07-12T13:24:43.649Z"}
+{"level":"info","message":"Successfully fetched the data of all employees!","service":"user-service","timestamp":"2022-07-12T13:28:38.632Z"}
+{"level":"info","message":"Successfully deleted a record","service":"user-service","timestamp":"2022-07-12T13:28:50.858Z"}
+{"level":"info","message":"Successfully fetched the data of all employees!","service":"user-service","timestamp":"2022-07-12T13:29:02.402Z"}
+{"level":"info","message":"Successfully deleted a record","service":"user-service","timestamp":"2022-07-12T13:29:17.484Z"}
+{"level":"info","message":"Successfully deleted a record","service":"user-service","timestamp":"2022-07-12T13:29:26.709Z"}
+{"level":"info","message":"New employee is added successfully!","service":"user-service","timestamp":"2022-07-12T13:29:56.124Z"}
+{"level":"info","message":"New employee is added successfully!","service":"user-service","timestamp":"2022-07-12T13:30:50.205Z"}
+{"level":"error","message":"Error while adding a new employee.","service":"user-service","timestamp":"2022-07-12T13:33:28.710Z"}
+{"level":"info","message":"An employee record is fetched up successfully","service":"user-service","timestamp":"2022-07-12T13:36:56.329Z"}
+{"level":"error","message":"Error while featching an employee record!","service":"user-service","timestamp":"2022-07-12T13:38:31.744Z"}
+{"level":"info","message":"An employee record is fetched up successfully","service":"user-service","timestamp":"2022-07-12T13:38:37.820Z"}
+{"level":"info","message":"An employee record is fetched up successfully","service":"user-service","timestamp":"2022-07-12T13:39:49.026Z"}
+{"level":"error","message":"Error while featching an employee record!","service":"user-service","timestamp":"2022-07-12T13:39:49.031Z"}
+{"level":"error","message":"Error while featching an employee record!","service":"user-service","timestamp":"2022-07-12T13:39:53.892Z"}
+{"level":"error","message":"Error while featching an employee record!","service":"user-service","timestamp":"2022-07-12T13:41:04.392Z"}
+{"level":"info","message":"An employee record is fetched up successfully","service":"user-service","timestamp":"2022-07-12T13:41:13.576Z"}
+{"level":"info","message":"An employee record is fetched up successfully","service":"user-service","timestamp":"2022-07-12T13:42:18.432Z"}
+{"level":"info","message":"An employee record is fetched up successfully","service":"user-service","timestamp":"2022-07-12T13:42:47.417Z"}
+{"level":"info","message":"An employee record is fetched up successfully","service":"user-service","timestamp":"2022-07-12T13:43:02.264Z"}
+{"level":"info","message":"An employee record is fetched up successfully","service":"user-service","timestamp":"2022-07-12T13:45:06.026Z"}
+{"level":"error","message":"Error while featching an employee record!","service":"user-service","timestamp":"2022-07-12T13:45:29.005Z"}
+{"level":"error","message":"Error while featching an employee record!","service":"user-service","timestamp":"2022-07-12T13:45:57.638Z"}
+{"level":"error","message":"Error while featching an employee record!","service":"user-service","timestamp":"2022-07-12T13:46:47.300Z"}
+{"level":"error","message":"Error while featching an employee record!","service":"user-service","timestamp":"2022-07-12T13:46:53.120Z"}
+{"level":"info","message":"An employee record is fetched up successfully","service":"user-service","timestamp":"2022-07-12T13:47:06.996Z"}
+{"level":"info","message":"Successfully fetched the data of all employees!","service":"user-service","timestamp":"2022-07-12T17:18:51.764Z"}
+{"level":"info","message":"Successfully fetched the data of all employees!","service":"user-service","timestamp":"2022-07-12T17:19:30.774Z"}
+{"level":"info","message":"New employee is added successfully!","service":"user-service","timestamp":"2022-07-12T17:28:31.448Z"}
+{"level":"error","message":"Error while adding a new employee.","service":"user-service","timestamp":"2022-07-12T17:29:12.070Z"}
+{"level":"info","message":"New employee is added successfully!","service":"user-service","timestamp":"2022-07-12T17:29:30.145Z"}
+{"level":"error","message":"Error while adding a new employee.","service":"user-service","timestamp":"2022-07-12T17:29:40.659Z"}
+{"level":"info","message":"An employee record is fetched up successfully","service":"user-service","timestamp":"2022-07-12T17:30:03.330Z"}
+{"level":"info","message":"An employee record is fetched up successfully","service":"user-service","timestamp":"2022-07-12T17:31:42.076Z"}
+{"level":"error","message":"Error while featching an employee record!","service":"user-service","timestamp":"2022-07-12T17:32:12.016Z"}
+{"level":"error","message":"Error while featching an employee record!","service":"user-service","timestamp":"2022-07-12T17:32:18.901Z"}
+{"level":"info","message":"An employee record is fetched up successfully","service":"user-service","timestamp":"2022-07-12T17:32:25.942Z"}
+{"level":"info","message":"An employee record has been updated successfully.","service":"user-service","timestamp":"2022-07-12T17:34:21.195Z"}
+{"level":"error","message":"An error has occured while updating a document.","service":"user-service","timestamp":"2022-07-12T17:34:32.754Z"}
+{"level":"error","message":"An error has occured while updating a document.","service":"user-service","timestamp":"2022-07-12T17:35:42.582Z"}
+{"level":"info","message":"An employee record has been updated successfully.","service":"user-service","timestamp":"2022-07-12T17:35:47.659Z"}
+{"level":"info","message":"An employee record is fetched up successfully","service":"user-service","timestamp":"2022-07-12T17:36:21.850Z"}
+{"level":"error","message":"Error while featching an employee record!","service":"user-service","timestamp":"2022-07-12T17:36:33.377Z"}
+{"level":"info","message":"An employee record is fetched up successfully","service":"user-service","timestamp":"2022-07-12T17:36:37.792Z"}
+{"level":"info","message":"An employee record has been updated successfully.","service":"user-service","timestamp":"2022-07-12T17:37:10.222Z"}
+{"level":"error","message":"An error has occured while updating a document.","service":"user-service","timestamp":"2022-07-12T17:37:24.628Z"}
+{"level":"error","message":"Error while deleting","service":"user-service","timestamp":"2022-07-12T17:37:42.814Z"}
+{"level":"error","message":"Error while deleting","service":"user-service","timestamp":"2022-07-12T17:37:48.237Z"}
+{"level":"error","message":"Error while deleting","service":"user-service","timestamp":"2022-07-12T17:38:27.180Z"}
+{"level":"info","message":"Successfully deleted a record","service":"user-service","timestamp":"2022-07-12T17:38:34.225Z"}
+{"level":"info","message":"New employee is added successfully!","service":"user-service","timestamp":"2022-07-12T17:39:30.818Z"}
+{"level":"error","message":"Error while adding a new employee.","service":"user-service","timestamp":"2022-07-12T17:39:31.853Z"}
+{"level":"error","message":"Error while featching an employee record!","service":"user-service","timestamp":"2022-07-12T17:46:22.722Z"}
+{"level":"info","message":"An employee record is fetched up successfully","service":"user-service","timestamp":"2022-07-12T17:46:32.003Z"}
+{"level":"error","message":"Error while featching an employee record!","service":"user-service","timestamp":"2022-07-12T17:46:37.944Z"}
+{"level":"error","message":"Error while featching an employee record!","service":"user-service","timestamp":"2022-07-12T17:47:34.088Z"}
+{"level":"info","message":"An employee record is fetched up successfully","service":"user-service","timestamp":"2022-07-12T17:47:38.598Z"}
+{"level":"error","message":"Error while adding a new employee.","service":"user-service","timestamp":"2022-07-12T17:48:10.463Z"}
+{"level":"info","message":"New employee is added successfully!","service":"user-service","timestamp":"2022-07-12T17:48:29.880Z"}
+{"level":"error","message":"Error while adding a new employee.","service":"user-service","timestamp":"2022-07-12T17:53:14.047Z"}
+{"level":"info","message":"An employee record is fetched up successfully","service":"user-service","timestamp":"2022-07-12T17:53:23.877Z"}
+{"level":"error","message":"Error while featching an employee record!","service":"user-service","timestamp":"2022-07-12T17:53:27.351Z"}
+{"level":"error","message":"An error has occured while updating a document.","service":"user-service","timestamp":"2022-07-12T17:53:37.620Z"}
+{"level":"info","message":"An employee record has been updated successfully.","service":"user-service","timestamp":"2022-07-12T17:53:44.818Z"}
+{"level":"error","message":"Error while deleting","service":"user-service","timestamp":"2022-07-12T17:53:59.408Z"}
+{"level":"info","message":"Successfully deleted a record","service":"user-service","timestamp":"2022-07-12T17:54:03.669Z"}
+{"level":"info","message":"An employee record has been updated successfully.","service":"user-service","timestamp":"2022-07-12T17:55:34.781Z"}
+{"level":"info","message":"An employee record is fetched up successfully","service":"user-service","timestamp":"2022-07-12T17:55:58.119Z"}
+{"level":"info","message":"An employee record is fetched up successfully","service":"user-service","timestamp":"2022-07-12T17:57:17.603Z"}
+{"level":"info","message":"An employee record has been updated successfully.","service":"user-service","timestamp":"2022-07-12T17:57:23.689Z"}
+{"level":"error","message":"An error has occured while updating a document.","service":"user-service","timestamp":"2022-07-12T18:00:54.951Z"}
+{"level":"info","message":"An employee record has been updated successfully.","service":"user-service","timestamp":"2022-07-12T18:01:18.379Z"}
+{"level":"info","message":"An employee record has been updated successfully.","service":"user-service","timestamp":"2022-07-12T18:06:10.192Z"}
+{"level":"error","message":"An error has occured while updating a document.","service":"user-service","timestamp":"2022-07-12T18:06:15.474Z"}
+{"level":"info","message":"Successfully fetched the data of all employees!","service":"user-service","timestamp":"2022-07-15T06:22:09.637Z"}
+{"level":"info","message":"An employee record is fetched up successfully","service":"user-service","timestamp":"2022-07-15T06:42:32.267Z"}
+{"level":"info","message":"An employee record is fetched up successfully","service":"user-service","timestamp":"2022-07-15T06:56:16.678Z"}
+{"level":"info","message":"Successfully fetched the data of all employees!","service":"user-service","timestamp":"2022-07-19T15:44:42.733Z"}
+{"level":"info","message":"Successfully fetched the data of all employees!","service":"user-service","timestamp":"2022-07-19T17:17:12.367Z"}
+{"level":"info","message":"Successfully fetched the data of all employees!","service":"user-service","timestamp":"2022-07-21T09:24:34.006Z"}
+{"level":"info","message":"An employee record is fetched up successfully","service":"user-service","timestamp":"2022-07-21T09:24:40.194Z"}
+{"level":"info","message":"Successfully fetched the data of all employees!","service":"user-service","timestamp":"2022-07-21T09:26:46.148Z"}

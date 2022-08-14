@@ -1,0 +1,9 @@
+
+{    "Customer": {
+        "users" : {
+            "user1": { "name": "userA", "pass" : "qwe" },
+            "user2": { "name": "userB", "pass" : "asd" },
+            "user3": { "name": "userC", "pass" : "zxc" }
+           }
+        }
+  }

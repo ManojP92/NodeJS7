@@ -1,0 +1,23 @@
+{
+  "name": "project3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "entry.js",
+  "scripts": {
+    "start": "node entry.js",
+    "dev": "nodemon src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "manoj",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.7",
+    "express": "^4.18.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.19",
+    "winston": "^3.8.1"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.1"
+  }
+}

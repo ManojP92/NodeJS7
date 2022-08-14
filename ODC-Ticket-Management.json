@@ -1,0 +1,64 @@
+{
+    "app":{
+      "components":{
+        "login": "type-component(routes to admin-module after successful login)",
+        "not-found": "type-component",
+        "forgot-password":"type-component",
+        "register-user": "type-component",
+        "supervisor-login": "type-component"
+      }
+    },
+    "guards":{
+      "auth":"guard"
+    },
+    "modules":{
+      "admin(type-module)":{
+        "components":{
+          "admin-home": "type-component(header,nav-list,router-outlet,footer)",
+          "contact":"type-component",
+          "header":"type-component",
+          "footer":"type-component",
+          "dash-board":"type-component",
+          "new-tickets": "type-component",
+          "open-tickets": "type-component",
+          "pending-tickets": "type-component",
+          "closed-tickets": "type-component",
+          "reports": "type-component",
+          "services":"type-component"
+        },
+        "admin-routing-component":{
+          "paths":{
+            "default":"admin-dashboard-component",
+            "home":"home-component",
+            "about": "about-component",
+            "services":"services-component",
+            "contact":"contact-component",
+            "new-tickets":"new-component",
+            "open-tickets":"open-component",
+            "pending-tickets":"pending-component",
+            "closed-tickets":"closed-component",
+            "reports":"reports",
+            "pathmatch-full":"/admin/home"
+          }
+        }
+      },
+      "user-module":{
+  
+      }
+    },
+    "services":{
+      "auth": "service",
+      "tickets-service": "service"
+    },
+  
+    "app-routing.module":{
+      "paths": {
+        "pathmatch-full": "/login",
+        "login":"login-component",
+        "forgot-password":"forgot-password-component",
+  
+        "admin":"canActivate-authguard and gets access to Admin-module",
+        "**": "NotFoundComponent"
+      }
+    }
+  }

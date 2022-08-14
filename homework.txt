@@ -1,0 +1,9 @@
+
+create a category table
+
+create a product table
+
+create products with a category id
+
+then perform a join operation to see the products 
+
